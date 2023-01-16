@@ -1,13 +1,13 @@
 posts = [
     {
-       'author': 'JayThreFrancoe',
-       'title': 'Blog Post 1',
-       'content': 'Blog 1 Content!',
-       'date_posted': 'March 16, 2022'
+       'author': 'TheDiva Miss',
+       'title': 'post 1',
+       'content': 'content 1',
+       'date_posted': 'August 30, 2022'
     },
     {
-       'author': 'Francoe',
-       'title': 'Blog Post 2',
-       'content': 'Blog 2 Content!',
-       'date_posted': 'March 16, 2022'
+       'author': 'Timaya',
+       'title': 'Post 2',
+       'content': 'Content 2',
+       'date_posted': 'August 30, 2022'
     }
