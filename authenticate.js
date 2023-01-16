@@ -17,7 +17,7 @@ exports.jwtPassport = passport.use(new JwtStrategy(opts,async(payload, done)) =>
 
     }
     catch (er) {
-        return done(err, false)
+        return done(error, false)
     }
 }
 
